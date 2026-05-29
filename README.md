@@ -96,7 +96,7 @@ Se quiser saber mais sobre o projeto ou conversar sobre oportunidades:
 
 **👤 Jefferson Silva**  
 **GitHub:** https://github.com/cloudjesilva  
-**LinkedIn:** *(adicione aqui seu link)*
+**LinkedIn:** *((https://www.linkedin.com/in/jeffersonanalistacloudaws/))*
 
 ---
 
