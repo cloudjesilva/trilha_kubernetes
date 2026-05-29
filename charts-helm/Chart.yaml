@@ -1,0 +1,11 @@
+apiVersion: v2
+name: alura-foods-app
+description: Um Helm chart para fazer deploy dos micro serviços da alura foods
+type: application
+version: 1.0.0
+appVersion: 0.0.1
+
+dependencies:
+  - name: mysql
+    version: "14.0.3"
+    repository: https://charts.bitnami.com/bitnami
